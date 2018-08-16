@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="zephyrproject" fetch="https://github.com/zephyrproject-rtos"/>
+
+  <default remote="zephyrproject" revision="master" sync-j="4"/>
+
+  <project name="zephyr"/>
+  <project name="west"/>
+  <project name="Kconfiglib"/>
+</manifest>
