@@ -4,7 +4,5 @@
 
   <default remote="zephyrproject" revision="master" sync-j="4"/>
 
-  <project name="zephyr"/>
-  <project name="west"/>
-  <project name="Kconfiglib"/>
+  <project name="zephyr" revision="refs/tags/v1.12.0"/>
 </manifest>
