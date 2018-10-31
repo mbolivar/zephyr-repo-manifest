@@ -2,6 +2,9 @@
 <manifest>
   <remote name="zephyrproject" fetch="https://github.com/zephyrproject-rtos"/>
 
+
+
+
   <default remote="zephyrproject" revision="master" sync-j="4"/>
 
   <project name="zephyr"/>
